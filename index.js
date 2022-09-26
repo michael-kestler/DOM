@@ -1,3 +1,4 @@
+document.getElementsByTagName("li")[2].style.color="purple";
 
-// document.querySelector("li").innerHTML = "Michael Kestler";
-document.firstElementChild.lastElementChild.lastElementChild.lastElementChild.innerHTML = "Michael";
+
+document.querySelector("h1").classList.add("huge");
